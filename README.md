@@ -13,7 +13,7 @@ The following libraries were used in this project:
 - Matplotlib: For generating a wide variety of static, animated, and interactive plots.
 - Missingno: For visualizing missing data to understand the completeness of the dataset.
 - Plotly: For creating interactive visualizations that allow for dynamic data exploration.
-- KMeans: For clustering data into a specified number of groups (clusters). It minimizes the variance within each cluster by iteratively assigning data points to the nearest cluster centroid and recalculating the centroids until convergence.
+- KMeans from sklearn.cluster: For clustering data into a specified number of groups (clusters). It minimizes the variance within each cluster by iteratively assigning data points to the nearest cluster centroid and recalculating the centroids until convergence.
 - StandardScaler from sklearn.preprocessing: standardizes features by removing the mean and scaling to unit variance. This ensures that each feature contributes equally to the model, which is crucial for many machine learning algorithms sensitive to the scale of the input data.
 
 ## Steps Performed
