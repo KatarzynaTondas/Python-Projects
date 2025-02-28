@@ -67,5 +67,4 @@ The following libraries were used in this project:
 - Interactive Plots: Created using Plotly for a more dynamic exploration of the data, allowing for interactive analysis and deeper insights.
 
 ### Data Sources
-- Kaggle Dataset
-- Medium 
+- Kaggle Dataset: https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn
